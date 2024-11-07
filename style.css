@@ -1,0 +1,35 @@
+body{
+    background-color: lightgrey;
+}
+h1{
+    height: 50px;
+    background-color: lightsalmon;
+    text-align: center;
+}
+.first-subheading{
+    height: 30px;
+    font-size: 20px;
+    background-color: brown;
+    text-align: right;
+    text-decoration: underline;
+    
+}
+
+.second-subheading{
+    background-color: brown;
+    height: 30px;
+    font-size: 20px;
+    background-color: brown;
+    text-align: right;
+    text-decoration: underline;
+    
+}
+.second{
+    text-decoration: line-through;
+}
+ul{
+    color: red;
+}
+.list-item{
+    text-decoration: line-through;
+}
